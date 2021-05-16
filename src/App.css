@@ -1,0 +1,15 @@
+ .page-title{
+     display: block !important;
+     text-align: center;
+     font-size: 2rem;
+     margin: 10px;
+ }
+
+ .form-container{
+     width: 30vw;
+     margin: auto;
+ }
+
+ .deleteButton{
+     float: right;
+ }
