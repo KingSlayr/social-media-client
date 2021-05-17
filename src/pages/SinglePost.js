@@ -105,7 +105,7 @@ export default function SinglePost(props) {
                                         <DeleteButton postID={id} commentID={comment.id} />
                                     )}
                                     <Card.Header>{comment.username}</Card.Header>
-                                    <Card.Meta>{moment(createdAt).fromNow()}</Card.Meta>
+                                    <Card.Meta>{moment(comment.createdAt).fromNow()}</Card.Meta>
                                     <Card.Description>{comment.body}</Card.Description>
                                 </Card.Content>
                             </Card>
