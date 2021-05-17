@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Demo
+# Demo
 
-![Alt Text](1.jpg)
-![Alt Text](2.jpg)
-![Alt Text](3.jpg)
+![Alt Text](1.JPG)
+![Alt Text](2.JPG)
+![Alt Text](3.JPG)
 
 ## Available Scripts
 
